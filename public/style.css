@@ -1,0 +1,8 @@
+.App{
+    font-family: 'Source Sans 3', sans-serif;
+}
+input{
+    outline: none;
+    border:none;
+    border-radius: 5px;
+}
